@@ -54,8 +54,9 @@ void saveGridAsPNG(const std::vector<std::vector<int>>& grid, const std::string&
             }
         }
 
+        std::string fullPath = "pics/" + filename;
         // Encode the image as a PNG and save it to the file
-        unsigned error = lodepng::encode(filename, image, width, height);
+        unsigned error = lodepng::encode(fullPath, image, width, height);
         if (error) {
             throw std::runtime_error("Error saving PNG: " + std::string(lodepng_error_text(error)));
         }
