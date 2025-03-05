@@ -6,5 +6,5 @@
 
 # Note
 
-* lodepng.cpp and lodepng.hpp are not my code [link to gitrepo](https://github.com/lvandeve/lodepng)
+* lodepng.cpp and lodepng.hpp are not my code [link to GitHub repo](https://github.com/lvandeve/lodepng)
 * letter fonts ideas from [levi-szekeres](https://www.dafont.com/leviwindows.font?fpp=50&l[]=6), but bitmaps of letters made by me
