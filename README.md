@@ -1,7 +1,7 @@
 # LetterImageCombos
 
-* run the program with the ./run and then type in any combos of letters A-Z, a-z, 0-9
-* and the program will create an image with all letters on top of themselfs
+* run the program with the ./run and then type in any combos of letters A-Z, a-z, 0-9 (any other char's will be discarded untill supported)
+* and the program will create an image with all letters on top of themeselfs
 
 
 # Note
