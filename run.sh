@@ -1,0 +1,1 @@
+clear && g++ main.cc lodepng.cpp -o main && ./main
