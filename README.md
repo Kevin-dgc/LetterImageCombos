@@ -7,3 +7,4 @@
 # Note
 
 * lodepng.cpp and lodepng.hpp are not my code [link to gitrepo](https://github.com/lvandeve/lodepng)
+* letter fonts from [levi-szekeres](https://www.dafont.com/levi-szekeres.d1472?fpp=50&l[]=6)

@@ -67,16 +67,16 @@ int main(){
     string input;
     cin >> input;
 
-    lettermaker me(input, 64);
+    lettermaker me(input, 9);
     
     string filename = input + "_.png";
 
-    for(auto l : me.getVec()){
-        for(auto c : l){
-            cout << c;
-        }
-        cout << endl;
-    }
+    // for(auto l : me.getVec()){
+    //     for(auto c : l){
+    //         cout << c;
+    //     }
+    //     cout << endl;
+    // }
 
     saveGridAsPNG(me.getVec(), filename);
     cout << "Success " << endl;
